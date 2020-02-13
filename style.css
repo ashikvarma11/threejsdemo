@@ -1,0 +1,21 @@
+body{
+	margin:0;
+	height: 100vh
+}
+canvas{
+	display: block;
+}
+
+h1{
+	position: absolute;
+	top:35%;
+	left:30%;
+	color: #004d40;
+	font-family: 'MontSerrat';
+	font-size:10rem;
+	text-transform: uppercase;
+	width: auto;
+	line-height: .8em;
+	border:5px solid #004d40;
+	padding: .2em;
+}
