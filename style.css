@@ -8,8 +8,8 @@ canvas{
 
 h1{
 	position: absolute;
-	top:35%;
-	left:30%;
+	top:32%;
+	left:11%;
 	color: #004d40;
 	font-family: 'MontSerrat';
 	font-size:10rem;
@@ -19,3 +19,6 @@ h1{
 	border:5px solid #004d40;
 	padding: .2em;
 }
+
+
+
